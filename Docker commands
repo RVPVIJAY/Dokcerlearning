@@ -1,0 +1,5 @@
+Docker ps - to see the running containers 
+docker ps -all - too see all the stopped and running containers 
+docker stop "container id" - to stop the container. 
+docker start "container id" - to start the container
+docker exec -it "container id" - to write into the container. 
